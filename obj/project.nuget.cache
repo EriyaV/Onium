@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "14iCQ1Y7dmgpNYeH91LYBfJpILpCRX2ihNyhLgb4g0w9420Z9GAAYe1qJd+CgS1YqHBq+WjwL4yarw7RwSVnHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eriya\\OniumMod\\OniumMod\\OniumMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eriya\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

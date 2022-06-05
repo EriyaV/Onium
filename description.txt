@@ -1,0 +1,14 @@
+Still a work in progress and still learning how to make things. So far there are:
+
+2 Melee weapons
+1 Range weapon
+7 Accessories
+1 Enemy
+1 Ore/Bar (Bar is broke)
+1 Crafting Station (Broke)
+1 Material
+1 Ammo
+1 NPC (50% done)
+
+
+yea

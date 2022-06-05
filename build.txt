@@ -1,0 +1,8 @@
+displayName = Onium
+author = Eriya
+version = 0.14
+homepage = https://www.google.com
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
