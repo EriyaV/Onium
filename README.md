@@ -1,2 +1,2 @@
-# Onium
+# OniumOld
 Onium Mod in Terraria
